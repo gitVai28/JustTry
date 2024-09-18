@@ -9,6 +9,6 @@ export default defineConfig({
     alias: {
       '@': path.resolve(__dirname, './src'), // Define @ as alias for src folder
     },
-  }
-    // Add the base to match your GitHub repository name
+  },
+  base: '/JustTry/', // Add the base to match your GitHub repository name
 })

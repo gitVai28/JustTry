@@ -48,7 +48,7 @@ const Header = () => {
         <nav className="flex space-x-4">
           <Link to="/" className="text-white hover:underline">Home</Link>
           <Link to="/archive" className="text-white hover:underline">Archive</Link>
-          <Link to="/reports" className="text-white hover:underline">Reports</Link>
+          <Link to="/reports" className="text-white hover:underline">data</Link>
         </nav>
 
         {/* Title and Subtitle */}
